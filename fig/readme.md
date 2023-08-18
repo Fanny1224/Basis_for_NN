@@ -1,1 +1,1 @@
-<img src="./fig/nn.png">
+<img src="nn.png">
